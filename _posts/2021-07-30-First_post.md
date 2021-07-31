@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming Soon..."
+title: "Nature: Its duality that has been obscured, and Why?"
 categories: misc
 ---
 
